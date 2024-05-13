@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel0101&label=Profile%20views&color=0e75b6&style=flat" alt="adel0101" /> </p>
 
-- 🔭 I’m currently working on **flutter UI kit**
+- 🔭 I’m currently working on improving my skills
 
-- 🌱 I’m currently learning **GoLang, UI/UX**
+- 🌱 I’m currently learning **VUEJS, UI/UX**
 
 - 💬 Ask me about **flutter**
 
